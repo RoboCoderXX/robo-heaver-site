@@ -1,0 +1,12 @@
+{
+  "name": "robo-heaver-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "RoboCoderX",
+  "license": "ISC",
+  "dependencies": {
+    "expressjs": "^1.0.1",
+    "socket.io": "^4.8.0"
+  }
+}
