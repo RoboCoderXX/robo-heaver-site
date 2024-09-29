@@ -30,5 +30,5 @@ const http = createServer((req,res)=>{
     res.end()
 })
 io.listen(5555)
-http.listen(4000)
+http.listen(3000)
 module.exports = http
