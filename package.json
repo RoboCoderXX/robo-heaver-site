@@ -6,7 +6,6 @@
   "author": "RoboCoderX",
   "license": "ISC",
   "dependencies": {
-    "expressjs": "^1.0.1",
     "socket.io": "^4.8.0"
   }
 }
