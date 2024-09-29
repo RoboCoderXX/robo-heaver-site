@@ -30,4 +30,5 @@ const http = createServer((req,res)=>{
     res.end()
 })
 io.listen(5555)
-http.listen(8080)
+http.listen(4000)
+module.exports = http
